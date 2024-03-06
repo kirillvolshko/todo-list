@@ -1,0 +1,13 @@
+.filter-label {
+    font-size: 12.5pt;
+    font-weight: 500;
+    margin-right: 10px;
+}
+
+.select-filter {
+    border: none;
+    background: none;
+    border-radius: 50px;
+    width: 90px;
+    height: 25px;
+}
